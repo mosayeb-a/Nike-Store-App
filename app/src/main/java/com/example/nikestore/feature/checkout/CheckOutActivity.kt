@@ -9,6 +9,7 @@ import com.example.nikestore.R
 import com.example.nikestore.common.EXTRA_KEY_ID
 import com.example.nikestore.common.formatPrice
 import com.example.nikestore.feature.home.HomeFragment
+import com.example.nikestore.feature.main.MainActivity
 import com.google.android.material.button.MaterialButton
 import org.koin.androidx.viewmodel.ext.android.viewModel
 import org.koin.core.parameter.parametersOf
@@ -39,7 +40,7 @@ class CheckOutActivity : AppCompatActivity() {
 
         val returnHomeBtn: MaterialButton = findViewById(R.id.returnHomeBtn)
         returnHomeBtn.setOnClickListener {
-            startActivity(Intent(this, HomeFragment::class.java))
+            startActivity(Intent(this, MainActivity::class.java))
         }
 
 
