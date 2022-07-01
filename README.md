@@ -7,7 +7,8 @@
 * 6- Event Bus 
 * 7- Room 
 * 8- Mvvm 
-* 9- Solid Principles
+* 9- Architecture Component 
+* 10- Solid Principles
 
 
 https://raw.githubusercontent.com/mosayeb-a/Nike-Store-App/master/preview.mp4
