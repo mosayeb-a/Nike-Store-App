@@ -1,11 +1,5 @@
 # Nike-Store-App
 
-
-
-<video src="https://raw.githubusercontent.com/mosayeb-a/Nike-Store-App/master/preview.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-
-
+<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4" type="video/mp4"></video>
 
 https://raw.githubusercontent.com/mosayeb-a/Nike-Store-App/master/preview.mp4
