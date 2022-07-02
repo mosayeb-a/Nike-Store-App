@@ -10,6 +10,8 @@
 * 9- Architecture Component 
 * 10- Solid Principles
 * 11- Compound view
+* 12- Material Design Guidelines
+
 
 ## demo 
 https://raw.githubusercontent.com/mosayeb-a/Nike-Store-App/master/preview.mp4
