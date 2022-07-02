@@ -9,6 +9,7 @@
 * 8- Mvvm 
 * 9- Architecture Component 
 * 10- Solid Principles
+* 11- Compound view
 
 ## demo 
 https://raw.githubusercontent.com/mosayeb-a/Nike-Store-App/master/preview.mp4
